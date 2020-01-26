@@ -14,3 +14,4 @@ How To Run This Project :
   4. If your are not familiar with Arduino IDE and how to compile a code, you should read some books! what I suggest is Arduino for Dummies by John Nussey. Just read the first and second chapter to learn how to use this IDE. 
   
   
+-- I uploaded the chinese driver and a power point file. Feel free to use this power point for your own presentations. After all we are an open source community...A complete explanation of this project is implemented in the slides. 
