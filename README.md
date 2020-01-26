@@ -12,7 +12,7 @@ How To Run This Project :
   2. Install your Arduino driver on your operating system. If you are using fake chinese Arduinos, you should install CH34x driver. Google it and you'll find it. 
   3. Install Arduino IDE to compile my code on your Arduino. 
   4. If your are not familiar with Arduino IDE and how to compile a code, you should read some books! what I suggest is Arduino for Dummies by John Nussey. Just read the first and second chapter to learn how to use this IDE. 
-  5. *****Be sure to check the Board architecture & implementation picture !!!!
+  5. *****Be sure to check the Board architecture & implementation picture !!!! Its a master piece by Alireza Assassan ( Rabiei Far ), my dear friend, fellow and patron. 
   
   
 -- I uploaded the chinese driver and a power point file. Feel free to use this power point for your own presentations. After all we are an open source community...A complete explanation of this project is implemented in the slides. 
