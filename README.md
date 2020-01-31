@@ -1,5 +1,7 @@
 # parking-sensor
 Parking Sensor Using Arduino Uno and Ultrasonic Sensor
+
+
 In this project I measure the distance using Ultrasonic sensor. By looking at my code you can see If Else for each range of distances and some actions take place in each one.
 LEDs are used for indicating distance ranges. I used three LEDs to indicate the distance. 
 In distances less than 10cm, a 12v fan will spin. This feature indicates that we can control one or even more pins for each distance. this feature can be used for many different appliances.
